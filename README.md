@@ -27,7 +27,7 @@ Si vous utilisez Python 3 et que pip n'est pas configuré, essayez :
    git clone https://github.com/Statesflow/BLOKUS_Project
 
 2. **Lancer le jeu**
-`python blokus.py`
+`python main.py`
 
 ## Comment jouer ?
 
